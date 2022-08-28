@@ -1,0 +1,10 @@
+# Tools.
+git
+httpie  # HTTP client.
+geany  # Text editor.
+
+# Interpreters.
+python3
+racket
+
+  # It's okay for comments to be preceeded by whitespace.
